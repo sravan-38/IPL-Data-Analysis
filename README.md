@@ -38,4 +38,4 @@ This project analyzes the Indian Premier League (IPL) data from 2008 to 2024 usi
 
 ---
 
-✅ Developed by: **Shravan Kumar**
+✅ Developed by: **Gunivalla Sravan Kumar**
