@@ -34,7 +34,8 @@ This project analyzes the Indian Premier League (IPL) data from 2008 to 2024 usi
 4. Run each cell to see analysis and visualizations
 
 ## 📸 Sample Visualizations
-*(Include screenshots here if you upload to GitHub)*
+### 1 Top_Matches_Won
+![Top_Matches_Won](Top_Matches_Won.png)
 
 ---
 
