@@ -33,15 +33,17 @@ This project analyzes the Indian Premier League (IPL) data from 2008 to 2024 usi
 3. Open the `.ipynb` notebook in Jupyter
 4. Run each cell to see analysis and visualizations
 
-## 📸 Sample Visualizations
+## 📸 Visualizations
 ###1️⃣ Top Matches Won
 ![Top Matches Won](https://github.com/sravan-38/IPL-Data-Analysis/blob/main/images/Top_Matches_Won.png.png)
-###2️⃣ Top Run Scorrer
 
+###2️⃣ Top Run Scorrer
+![Top Run Scorrer](https://github.com/sravan-38/IPL-Data-Analysis/blob/main/images/Top_Run_Scorrer.png.png)
 
 ###3️⃣ Top Strike Rate
+![Top Strike Rate](https://github.com/sravan-38/IPL-Data-Analysis/blob/main/images/Top_Strike_Rate.png.png) 
 
 ###4️⃣ Top Wicket Taker
----
+![Top Wicket Taker](https://github.com/sravan-38/IPL-Data-Analysis/blob/main/images/Top_Wicket_Taker.png.png)
 
 ✅ Developed by: **Gunivalla Sravan Kumar**
