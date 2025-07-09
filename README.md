@@ -34,9 +34,14 @@ This project analyzes the Indian Premier League (IPL) data from 2008 to 2024 usi
 4. Run each cell to see analysis and visualizations
 
 ## 📸 Sample Visualizations
-### 1 Top Matches Won
+###1️⃣ Top Matches Won
 ![Top Matches Won](https://github.com/sravan-38/IPL-Data-Analysis/blob/main/images/Top_Matches_Won.png.png)
+###2️⃣ Top Run Scorrer
 
+
+###3️⃣ Top Strike Rate
+
+###4️⃣ Top Wicket Taker
 ---
 
 ✅ Developed by: **Gunivalla Sravan Kumar**
